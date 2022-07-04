@@ -4,3 +4,4 @@
 - order.cpp: functions add invoice, check, delete and pay orders
 - function.cpp: functions add, save, search, load, show list,...
 - pharmacy.cpp: main program
+- data.bin: file save data
